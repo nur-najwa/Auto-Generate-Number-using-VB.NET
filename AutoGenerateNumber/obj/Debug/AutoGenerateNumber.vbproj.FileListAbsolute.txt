@@ -1,0 +1,13 @@
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\bin\Debug\AutoGenerateNumber.exe.config
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\bin\Debug\AutoGenerateNumber.exe
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\bin\Debug\AutoGenerateNumber.pdb
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\bin\Debug\AutoGenerateNumber.xml
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.vbproj.AssemblyReference.cache
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.vbproj.SuggestedBindingRedirects.cache
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.Form1.resources
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.Resources.resources
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.vbproj.GenerateResource.cache
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.vbproj.CoreCompileInputs.cache
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.exe
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.xml
+C:\Users\najwa\Desktop\Done Api\VB.NET\AutoGenerateNumber\AutoGenerateNumber\obj\Debug\AutoGenerateNumber.pdb
